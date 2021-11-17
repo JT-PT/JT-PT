@@ -28,6 +28,6 @@
 
 ## 📌 Pinned Repositories
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
+![Customized Card](<script src="https://gist.github.com/JT-PT/a6aab854f05b04434a3d6005ff36981d.js"></script>)
 
 
