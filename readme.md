@@ -23,7 +23,7 @@
 
 ## ⭐ Information About My GitHub Account
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true) ㅤㅤ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true) ㅤㅤ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT)](https://github.com/JT-PT/github-readme-stats)
 
 
 ## 📌 Pinned Repositories
