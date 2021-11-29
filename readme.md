@@ -50,14 +50,14 @@
 
 <div>
   <a href="https://github.com/bewaterpt/eWater"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater"></a>
-  <a href="https://github.com/bewaterpt/bewgpt"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt"></a>
+  <a href="https://github.com/bewaterpt/bewgpt"><img width="430px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt"></a>
 </div>
 
 <br>
 
 <div>
-  <a href="https://github.com/JT-PT/jt-pt.github.io"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io"></a>
-  <a href="https://github.com/GVO-PT/SiteMine"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=GVO-PT&repo=SiteMine"></a>
+  <a href="https://github.com/JT-PT/jt-pt.github.io"><img width="370px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io"></a>
+  <a href="https://github.com/GVO-PT/SiteMine"><img width="370px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=GVO-PT&repo=SiteMine"></a>
 </div>
 
 
