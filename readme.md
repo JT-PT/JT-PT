@@ -49,14 +49,15 @@
 ## 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater)](https://github.com/bewaterpt/eWater)
+
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt)](https://github.com/bewaterpt/bewgpt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=calculator.py)](https://gist.github.com/JT-PT/46bf0aae4b2a486d6862651aea0308c8)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
 
