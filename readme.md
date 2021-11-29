@@ -28,6 +28,6 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=github-inverted.py)](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=github-Como-inverter-um-texto-em-Python)](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
