@@ -28,14 +28,5 @@
 
 ## 📌 Pinned Repositories
 
-<a class="text-bold flex-auto " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:92049394,&quot;target&quot;:&quot;PINNED_GIST&quot;,&quot;user_id&quot;:92049394,&quot;originating_url&quot;:&quot;https://github.com/JT-PT&quot;}}" data-hydro-click-hmac="be2aad05db3f1c4b0b2266534f6fc6ba9ee115df7c48795aeb1dba329005b8d4" href="https://gist.github.com/a6aab854f05b04434a3d6005ff36981d">
-          <span class="repo" title="Como inverter um texto em Python">Como inverter um texto em Python</span>
-</a>
-
-[![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git/api/pin/?username=JT-PT&repo=github-readme-stats)](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git)
-
-[![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.vercel.app/api/pin/?username=JT-PT&repo=github-readme-stats)](https://github.com/JT-PT/github-readme-stats)
-
-[![Readme Card](https://github-hi-stats.vercel.app/api/pin/?username=JT-PT&repo=github-readme-stats)](https://github.com/JT-PT/github-readme-stats)
 
 
