@@ -4,7 +4,7 @@
 
 :basketball: My Favorite sport is Basketball
 
-:video_game:I love to play Video Games.
+:video_game: I love to play Video Games.
 
 💬 You can email me via <link> sear.jomi@outlook.pt </link>
 
