@@ -29,30 +29,30 @@
 ## 📌 Pinned Repositories
 
 <a href="https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=ng-Como inverter um texto em Python" />
 </a>
 
 <a href="https://github.com/bewaterpt/eWater.git">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jt-PT&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jt-PT&repo=tailwindcss-v2-dark-mode-template" />
 </a>
 
 <br>
 
 <a href="https://gist.github.com/fa12b40a81b295c2f2b0ec7b08fa85b9.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi" />
 </a>
 
 <a href="https://github.com/bewaterpt/bewgpt.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi" />
 </a>
 
 <br>
 
 <a href="https://gist.github.com/46bf0aae4b2a486d6862651aea0308c8.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi" />
 </a>
 
 <a href="https://github.com/JT-PT/jt-pt.github.io.git">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=officeapi" />
 </a>
 
