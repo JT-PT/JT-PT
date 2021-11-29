@@ -1,7 +1,8 @@
  ## 💜 Hello, my name is <strong>João Teixeira!</strong>
 
 🔭 I'm Developing an app in Laravel.
-
+:basketball: My Favorite sport is Basketball
+:video_game:I love to play Video Games.
 💬 You can email me via <link> sear.jomi@outlook.pt </link>
 
 ----
