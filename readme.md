@@ -26,6 +26,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true) ㅤㅤ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT)](https://github.com/JT-PT/github-readme-stats)
 
 
+## :heart: Thanks for visiting
+![VisitorCount](https://profile-counter.glitch.me/JT-PT/count.svg)
+
 ## 📌 Pinned Repositories
 
 
