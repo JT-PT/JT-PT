@@ -31,6 +31,10 @@
 
 ---
 
+![Snake animation](https://github.com/JT-PT/JT-PT/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## :heart: Thanks for visiting
 ![VisitorCount](https://profile-counter.glitch.me/JT-PT/count.svg)
 
