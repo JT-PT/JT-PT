@@ -32,7 +32,10 @@
           <span class="repo" title="Como inverter um texto em Python">Como inverter um texto em Python</span>
 </a>
 
-[![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git)
+[![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git/api/pin/?username=JT-PT&repo=github-readme-stats)](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.git)
 
 [![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
