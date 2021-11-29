@@ -25,8 +25,8 @@
 
 
 <div>
-  <a href="https://github.com/JT-PT"><img height="10px" src="https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true"></a>
-  <a href="https://github.com/JT-PT"><img height="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT&layout=compact&langs_count=7"></a>
+  <a href="https://github.com/JT-PT"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true"></a>
+  <a href="https://github.com/JT-PT"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT&layout=compact&langs_count=7"></a>
 </div>
 
 ---
