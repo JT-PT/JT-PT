@@ -41,24 +41,20 @@
 
 ---
 
-## :heart: Thanks for visiting
-![VisitorCount](https://profile-counter.glitch.me/JT-PT/count.svg)
+## 📌 Pinned Repositories
+
+
+ <a href="https://github.com/bewaterpt/eWater"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater"></a>
+  
+ <a href="https://github.com/bewaterpt/bewgpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt"></a>
+
+ <a href="https://github.com/JT-PT/jt-pt.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io"></a>
+ 
+ <a href="https://github.com/GVO-PT/SiteMine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GVO-PT&repo=SiteMine"></a>
 
 ---
 
-## 📌 Pinned Repositories
-
-<div>
-  <a href="https://github.com/bewaterpt/eWater"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater"></a>
-  <a href="https://github.com/bewaterpt/bewgpt"><img width="430px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt"></a>
-</div>
-
-<br>
-
-<div>
-  <a href="https://github.com/JT-PT/jt-pt.github.io"><img width="370px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io"></a>
-  <a href="https://github.com/GVO-PT/SiteMine"><img width="370px" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=GVO-PT&repo=SiteMine"></a>
-</div>
-
+## :heart: Thanks for visiting
+![VisitorCount](https://profile-counter.glitch.me/JT-PT/count.svg)
 
 
