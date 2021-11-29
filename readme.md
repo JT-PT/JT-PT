@@ -23,7 +23,12 @@
 
 ## ⭐ Information About My GitHub Account
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true) ㅤㅤ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT)](https://github.com/JT-PT/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/JT-PT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JT-PT&hide=issues&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT-PT&layout=compact&langs_count=7"/>
+</div>
 
 ---
 
