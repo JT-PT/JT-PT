@@ -48,4 +48,5 @@
 
 ## 📌 Pinned Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
 
