@@ -36,6 +36,6 @@
 
 [![Readme Card](https://gist.github.com/a6aab854f05b04434a3d6005ff36981d.vercel.app/api/pin/?username=JT-PT&repo=github-readme-stats)](https://github.com/JT-PT/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=github-hi-stats)](https://github.com/JT-PT/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=github-readme-stats)](https://github.com/JT-PT/github-hi-stats)
 
 
