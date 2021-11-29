@@ -48,16 +48,17 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater)](https://github.com/bewaterpt/eWater)
+<div>
+  <a href="https://github.com/bewaterpt/eWater"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=eWater"></a>
+  <a href="https://github.com/bewaterpt/bewgpt"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt"></a>
+</div>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bewaterpt&repo=bewgpt)](https://github.com/bewaterpt/bewgpt)
+<div>
+  <a href="https://github.com/JT-PT/jt-pt.github.io"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io"></a>
+  <a href="https://github.com/GVO-PT/SiteMine"><img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=GVO-PT&repo=SiteMine"></a>
+</div>
 
-<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=calculator.py)](https://gist.github.com/JT-PT/46bf0aae4b2a486d6862651aea0308c8)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JT-PT&repo=jt-pt.github.io)](https://github.com/JT-PT/jt-pt.github.io)
 
