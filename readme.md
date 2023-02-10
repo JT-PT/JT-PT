@@ -2,7 +2,7 @@
 
 🔭 I'm Developing an app in Laravel.
 
-:basketball: My Favorite sport is Basketball
+:basketball: My Favorite sport is Basketball.
 
 :video_game: I love to play Video Games.
 
